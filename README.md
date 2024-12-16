@@ -1,18 +1,4 @@
 
-TASK HAKKINDA
-:heavy_check_mark: Profil Görüntüleme Ekranı 
-
-
-
-
-
-
-
-
-
-
-
-
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
